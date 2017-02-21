@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">materialdesign</string>
+
+    <string name="app_holamundo">¡Hola Mundo!</string>
+
+    <string name="pnombre">nombre</string>
+
+    <string name="praiting">raiting</string>
+
+    <string name="petagram">Petagram</string>
+
+    <string name="petagram_top_5">Petagram Top 5</string>
+
+    <string name="lista_serializada">lista_serializada</string>
+</resources>
